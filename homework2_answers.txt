@@ -1,11 +1,16 @@
-Part 1 - Github
+Commit 1 - Part 1 - Github
 1.  git init
 2.  git add
 3.  git commit
 
-after Commit 1 questions
+Commit 2 
 1.  git pull
 2.  git rm --cached
 3.  git reset --hard
 4.  -- interpret all preceding arguments as attributes and all following argumnts as path names
 5.  If you have errors and need to start over. Commit too early and need to add to files
+
+Commit 3
+1.  To join 2 or more development histories together. It would be better to submit a pull request to have your branch merged - so others can see it
+2.  git push
+
