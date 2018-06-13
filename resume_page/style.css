@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	font-family: courier;
+
+}
+h3 {
+	color: darkblue;
+}
+.img1 {
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: block;	
+
+}
+.list {
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.links {
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+ul {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+h3 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
